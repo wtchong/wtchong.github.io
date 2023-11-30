@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weitu Chong"
-#description              : ""
+description              : "Master of Computer Science in Fudan University"
 repository               : "wtchong/wtchong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weitu Chong"
-  #avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master of Computer Science"
-  location         : "Fudan University"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Fudan University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s3GH9pcAAAAJ&hl=zh-CN"
