@@ -27,7 +27,7 @@ At present, I am working as a research intern in Lenovo Research Institute, advi
 - [TCN-based Lightweight Log Anomaly Detection in Cloud-edge Collaborative Environment](https://ieeexplore.ieee.org/abstract/document/10024540), Jining Chen, **Weitu Chong**, Siyu Yu, Zhun Xu, Chaohong Tan, Ningjiang Chen, CBD2022.
 - [RBSP-Boosting: A Shapley value-based resampling approach for imbalanced data classification](https://drive.google.com/file/d/1uEhrJC0OH3rO8bB6LKbfq4P_BqN7NkfI/view), **Weitu Chong**, Ningjiang Chen, Chengyun Fang, Intelligent Data Analysis, 2022.
 
-- 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2023.11* We are the winner of MaCVi SeaDronesSee-MOT Challenge at WACV2024.
 - *2023.11* We are the runner-up of MaCVi BoaTrack Challenge at WACV2024.
 
@@ -36,5 +36,5 @@ At present, I am working as a research intern in Lenovo Research Institute, advi
 - *2018.09 - 2022.06*, B.S. in Computer Science and Technology, Guangxi University.
 
 # 💻 Internships
-- *2022.05 - 2022.08*, [IDEA](https://www.idea.edu.cn/), Shenzhen.
-- *2021.11 - 2022.03*, HIKVISION, Hangzhou.
+- *2022.05 - 2022.08*, [*IDEA*](https://www.idea.edu.cn/), Shenzhen.
+- *2021.11 - 2022.03*, *HIKVISION*, Hangzhou.
